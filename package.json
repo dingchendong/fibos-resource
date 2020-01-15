@@ -1,0 +1,19 @@
+{
+	"name": "fibos-system",
+	"version": "1.0.0",
+	"description": "system contract data module",
+	"main": "./lib/",
+	"scripts": {
+		"doc": "apidoc -f '.*\\.js$'  -i ./lib/defs -o ./temp/"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"bignumber.js": "^6.0.0",
+		"fib-app": "^1.13.43",
+		"fib-push": "^1.4.2",
+		"fib-qr": "^1.0.2",
+		"fibos.js": "0.3.6",
+		"fibos-tokens": "^1.0.0"
+	}
+}

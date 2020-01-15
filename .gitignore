@@ -1,0 +1,7 @@
+node_modules/
+example/data
+temp/
+.DS_Store/
+logs/
+package-lock.json
+
