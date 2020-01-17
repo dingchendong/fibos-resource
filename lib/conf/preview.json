@@ -1,5 +1,0 @@
-{
-	"DBconnString": "mysql://root:root123@127.0.0.1/fibos_chain",
-	"httpEndpoint": "http://210.74.14.247:9090",
-	"p2p-peer-address": ["210.74.14.247:9801"]
-}
