@@ -1,5 +1,5 @@
 {
-	"name": "fibos-system",
+	"name": "fibos-resource",
 	"version": "1.0.0",
 	"description": "system contract data module",
 	"main": "./lib/",
